@@ -1,5 +1,3 @@
-### Olá  🙂👋
-
 ### - Estatísticas 📊
 
 <p align="center">
